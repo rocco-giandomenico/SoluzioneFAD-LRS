@@ -24,7 +24,7 @@
     <link rel="apple-touch-icon" sizes="76x76" href="{{ traxAsset('img/apple-icon.png') }}">
     <link rel="icon" type="image/png" href="{{ traxAsset('img/favicon.png') }}">
     <title>
-        TRAX LRS• The Progressive LRS
+        SoluzioneFAD LRS
     </title>
 
 </head>
